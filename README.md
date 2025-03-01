@@ -24,6 +24,7 @@ const giovanni = {
         human: ["Italian", "English", "French"]
     }
 };
+```
 
 ## 📫 Get in Touch
 
