@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/nannipy" alt="Giovanni Battista Pernazza" width="200" style="border-radius: 50%;"/>
+  
 
   # Giovanni Battista Pernazza
   ### Full Stack Developer | Computer Engineer
