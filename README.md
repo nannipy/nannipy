@@ -26,11 +26,6 @@ const giovanni = {
 };
 ```
 
-## 📫 Get in Touch
-
-- 📧 Email: gb.pernazza@gmail.com
-- 📱 Phone: +39 3341287766
-- 🌍 Location: Rome, Italy
 
 <div align="center">
 
