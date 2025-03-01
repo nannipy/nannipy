@@ -26,35 +26,6 @@ const giovanni = {
 };
 ```
 
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🌾 Agricola Pernazza</b></summary>
-
-A modern web application for a family-owned farm in Amelia, Italy.
-- **Tech Stack:** React.js, Next.js
-- **Features:** Product ordering, Event management, Farm information
-- [View Project](https://github.com/nannipy/agricola-pernazza)
-</details>
-
-<details>
-<summary><b>🌿 Parco La Cascina</b></summary>
-
-E-commerce platform for an agricultural business in Varese.
-- **Tech Stack:** React.js, Tailwind CSS, EmailJS
-- **Features:** Product showcase, Online ordering, Contact system
-- [View Project](https://github.com/nannipy/parcolacascina)
-</details>
-
-<details>
-<summary><b>💻 Divide by Zero</b></summary>
-
-Community platform for tech enthusiasts.
-- **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
-- **Features:** User authentication, Public/Private sections
-- [View Project](https://github.com/nannipy/divide-by-zero)
-</details>
-
 ## 🛠️ Technical Skills
 
 ```mermaid
