@@ -24,33 +24,6 @@ const giovanni = {
         human: ["Italian", "English", "French"]
     }
 };
-```
-
-## 🛠️ Technical Skills
-
-```mermaid
-mindmap
-  root((Skills))
-    Languages
-      JavaScript/TypeScript
-      Python
-      C/C++
-      Java
-      SQL
-    Frontend
-      React.js
-      Next.js
-      HTML/CSS
-    Backend
-      Node.js
-      PostgreSQL
-    Tools
-      Git
-      Linux
-      Wireshark
-      NS3
-```
-
 
 ## 📫 Get in Touch
 
