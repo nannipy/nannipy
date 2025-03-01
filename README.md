@@ -3,7 +3,7 @@
   
 
   # Giovanni Battista Pernazza
-  ### Full Stack Developer | Computer Engineer
+  ### Software Engineer 
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website-url.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
@@ -80,25 +80,6 @@ mindmap
       NS3
 ```
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nannipy&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nannipy&theme=dracula" alt="GitHub Streak" />
-</div>
-
-## 🎓 Education & Experience
-
-- **Computer Engineering** @ Università La Sapienza (2020)
-- **Lead Web Developer** @ Sapienza Foiling Team
-  - Leading web projects with Agile methodology
-  - Implementing CI/CD pipelines
-  - Performance optimization and testing
-
-## 🌟 Achievements
-
-- Phillips Exeter Academy Summer Program
-- [Add other notable achievements]
 
 ## 📫 Get in Touch
 
