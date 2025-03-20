@@ -20,7 +20,7 @@ const giovanni = {
     currentRole: "Lead Web Developer @ Sapienza Foiling Team",
     interests: ["Web Development", "System Design", "Network Engineering"],
     languages: {
-        programming: ["TypeScript", "Python", "C++", "Java"],
+        programming: ["Python", "TypeScript", "C++", "Java", "Javascript"],
         human: ["Italian", "English", "French"]
     }
 };
