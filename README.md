@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const giovanni = {
+const nannipy = {
     location: "Rome, Italy",
     education: "Computer Engineering @ La Sapienza",
     currentRole: "Lead Web Developer @ Sapienza Foiling Team",
