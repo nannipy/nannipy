@@ -8,8 +8,7 @@ const nannipy = {
     interests: ["Web Development", "System Design", "Network Engineering"],
     languages: {
         programming: ["Python", "TypeScript", "C++", "Java", "Javascript"],
-        human: ["Italian", "English", "French"]
-    }
+        human: ["Italian", "English", "French"] },
     extra: ["running", "pizza"]
 };
 ```
