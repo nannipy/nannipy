@@ -17,7 +17,7 @@
 const nannipy = {
     location: "Rome, Italy",
     education: "Computer Engineering @ La Sapienza",
-    currentRole: "Lead Web Developer @ Sapienza Foiling Team",
+    currentRole: "Software Engineer @ Sapienza Foiling Team",
     interests: ["Web Development", "System Design", "Network Engineering"],
     languages: {
         programming: ["Python", "TypeScript", "C++", "Java", "Javascript"],
@@ -25,8 +25,6 @@ const nannipy = {
     }
 };
 ```
-
-
 <div align="center">
 
 ### Languages and Tools
@@ -37,9 +35,5 @@ const nannipy = {
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
----
-
-<i>Let's connect and build something amazing together!</i>
 
 </div>
